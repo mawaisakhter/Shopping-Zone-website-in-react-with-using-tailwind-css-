@@ -2,7 +2,7 @@ import React, { useState, useEffect, useRef } from "react";
 import { AiOutlineVerticalRight, AiOutlineVerticalLeft } from "react-icons/ai";
 
 const featuredProducts = [
-  "/public/images/Slider-1.jpeg",
+  "https://raw.githubusercontent.com/mawaisakhter/Shopping-Zone-website-in-react-with-using-tailwind-css-/main/public/images/Brand-1.jpg",
   "public/images/Slider-2.jpeg",
   "public/images/Slider-3.jpeg",
   "public/images/Slider-4.jpeg",
