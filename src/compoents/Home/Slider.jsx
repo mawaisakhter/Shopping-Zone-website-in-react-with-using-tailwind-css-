@@ -2,7 +2,7 @@ import React, { useState, useEffect, useRef } from "react";
 import { AiOutlineVerticalRight, AiOutlineVerticalLeft } from "react-icons/ai";
 
 const featuredProducts = [
-  "https://shoppingzone-two.vercel.app/images/Slider-1.jpeg",
+  "/images/Slider-1.jpeg",
   "/images/Slider-2.jpeg",
   "/images/Slider-3.jpeg",
   "/images/Slider-4.jpeg",
