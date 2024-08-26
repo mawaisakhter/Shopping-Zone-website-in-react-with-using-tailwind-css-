@@ -11,7 +11,7 @@ const Hero = () => {
                     <button className="text-lg md:text-2xl bg-black text-white py-2 px-5 mt-10 hover:bg-zinc-800 hover:scale-105 duration-300">Shop Now</button>
                 </div>
                 <div className="order-1 lg:order-2">
-                    <img className="h-80 w-80 object-cover rounded-md lg:w-[500px] lg:h-[500px]" src="main/public/images/Product_1.jpeg" alt="image" />
+                    <img className="h-80 w-80 object-cover rounded-md lg:w-[500px] lg:h-[500px]" src="public/images/Product_1.jpeg" alt="image" />
                 </div>
             </div>
         </section>
