@@ -2,7 +2,7 @@ import React, { useState, useEffect, useRef } from "react";
 import { AiOutlineVerticalRight, AiOutlineVerticalLeft } from "react-icons/ai";
 
 const featuredProducts = [
-  "main/public/images/Slider-1.jpeg",
+  "main/public/images/Grocery/Apple.1.jpg",
   "main/public/images/Slider-2.jpeg",
   "main/public/images/Slider-3.jpeg",
   "main/public/images/Slider-4.jpeg",
