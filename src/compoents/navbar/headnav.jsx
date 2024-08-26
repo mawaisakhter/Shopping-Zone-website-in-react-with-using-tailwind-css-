@@ -16,7 +16,7 @@ const Headnav = () => {
             </nav>
             <nav className="bg-white text-black z-20 py-1 px-4 border flex items-center justify-between sticky top-6">
             <Link to="/" className='font-normal py-1 md:ms-20 text-xl hover:scale-110 duration-300'>
-                   <img className='h-[80px] w-[190px] ' src='../../../public/images/logo2.png' />
+                   <img className='h-[80px] w-[190px] ' src='/images/logo2.png' />
                    {/* <p className='text-base'>Your Shopping Partner</p> */}
                 </Link>
                 <div className="flex items-center ml-9 hover:scale-105 duration-300">
