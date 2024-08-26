@@ -2,13 +2,13 @@ import React, { useState, useEffect, useRef } from "react";
 import { AiOutlineVerticalRight, AiOutlineVerticalLeft } from "react-icons/ai";
 
 const featuredProducts = [
-  "main/public/images/Brand-1.jpg",
-  "public/images/Slider-2.jpeg",
-  "public/images/Slider-3.jpeg",
-  "public/images/Slider-4.jpeg",
-  "public/images/Slider-5.jpeg",
-  "public/images/Slider-6.jpeg",
-  "public/images/Slider-7.jpeg",
+  "main/public/images/Slider-1.jpeg",
+  "main/public/images/Slider-2.jpeg",
+  "main/public/images/Slider-3.jpeg",
+  "main/public/images/Slider-4.jpeg",
+  "main/public/images/Slider-5.jpeg",
+  "main/public/images/Slider-6.jpeg",
+  "main/public/images/Slider-7.jpeg",
   // "/images/Slider-8.jpeg"
 ];
 
