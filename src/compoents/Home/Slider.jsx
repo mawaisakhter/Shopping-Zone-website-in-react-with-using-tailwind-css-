@@ -11,6 +11,7 @@ const featuredProducts = [
   "/images/Slider-7.jpeg",
 
 ];
+
 let count = 0;
 let slideInterval;
 export default function Slider() {
