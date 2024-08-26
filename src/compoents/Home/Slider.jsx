@@ -11,7 +11,7 @@ const featuredProducts = [
   "/images/Slider-7.jpeg",
 
 ];
-count = 0;
+let count = 0;
 let slideInterval;
 export default function Slider() {
   const [currentIndex, setCurrentIndex] = useState(0);
