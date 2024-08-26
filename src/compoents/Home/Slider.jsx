@@ -2,17 +2,15 @@ import React, { useState, useEffect, useRef } from "react";
 import { AiOutlineVerticalRight, AiOutlineVerticalLeft } from "react-icons/ai";
 
 const featuredProducts = [
-  "main/public/images/Grocery/Apple.1.jpg",
-  "main/public/images/Slider-2.jpeg",
-  "main/public/images/Slider-3.jpeg",
-  "main/public/images/Slider-4.jpeg",
-  "main/public/images/Slider-5.jpeg",
-  "main/public/images/Slider-6.jpeg",
-  "main/public/images/Slider-7.jpeg",
-  // "/images/Slider-8.jpeg"
-];
-
-let count = 0;
+  "/public/images/Slider-1.jpeg",
+  "/public/images/Slider-2.jpeg",
+  "/public/images/Slider-3.jpeg",
+  "/public/images/Slider-4.jpeg",
+  "/public/images/Slider-5.jpeg",
+  "/public/images/Slider-6.jpeg",
+  "/public/images/Slider-7.jpeg",
+  /images/Slider-8.jpeg"
+];t count = 0;
 let slideInterval;
 export default function Slider() {
   const [currentIndex, setCurrentIndex] = useState(0);
