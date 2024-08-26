@@ -9,7 +9,7 @@ const featuredProducts = [
   "/public/images/Slider-5.jpeg",
   "/public/images/Slider-6.jpeg",
   "/public/images/Slider-7.jpeg",
-  /images/Slider-8.jpeg"
+
 ];t count = 0;
 let slideInterval;
 export default function Slider() {
