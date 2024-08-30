@@ -5,7 +5,7 @@ import { FaPhone, FaEnvelope, FaCartPlus  } from "react-icons/fa6";
 const Headnav = () => {
     return (
         <>
-            <nav className="bg-white text-black border z-20 fixed top-0 left-0 right-0 px-4 flex items-center justify-between"><FaEnvelope className='md:ms-20 hidden md:visible'/>
+            <nav className="bg-white text-black border z-20 fixed top-0 left-0 right-0 px-0 md:px-4 flex items-center justify-between"><FaEnvelope className='md:ms-20 hidden md:visible'/>
                 <Link to="/" className="px-2 border-r-2 hidden md:block">support@shoppingstore.com</Link>
                 <FaPhone className='ml-2'/>
                 <h1 className='mr-auto border-r-2 px-2'>+923001262260</h1>
