@@ -55,7 +55,7 @@ function BrandSlider() {
     
   };
   return (
-    <div className='w-12/12 md:w-10/12 px-2 md:px-0 m-auto mb-16'>
+    <div className='w-10/12 md:w-10/12 px-2 md:px-0 m-auto mb-16'>
       <div className="">
       <Slider {...settings}>
         {data.map((item) => (
