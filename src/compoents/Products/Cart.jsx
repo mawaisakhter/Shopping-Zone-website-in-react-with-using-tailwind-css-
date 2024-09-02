@@ -38,7 +38,7 @@ const Cart = () => {
       ));
       
     return (
-        <section className=" py-0 sm:py-16 lg:pt-16 lg:pb-6">
+        <section className="mt-10 md:mt-0 py-0 sm:py-16 lg:pt-16 lg:pb-6">
             <div className="mx-auto px-4 sm:px-6 lg:px-8">
                 <div className="flex items-center justify-center">
                     <h1 className="text-2xl font-semibold text-gray-900">Your Shopping Cart</h1>
